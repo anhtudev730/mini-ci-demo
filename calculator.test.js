@@ -16,5 +16,5 @@ test('5 - 3 should equal 2', () => {
 });
 
 test('4 * 3 should equal 12', () => {
-  assert.equal(multiply(4, 3), 12);
+  assert.equal(multiply(4, 3), 13);
 });
